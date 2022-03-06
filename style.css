@@ -3,6 +3,19 @@
 	padding: 0px;
 }
 
-body{
-	background: fuchsia;
+body {
+	background-color: fuchsia;
+	text-align: center;
+}
+
+h1 {
+	font-size: 54px;
+	font-family: Impact;
+	color: green;
+}
+
+h2 {
+	font-size: 27px;
+	font-family: Fantasy;
+	color: yellow;
 }
